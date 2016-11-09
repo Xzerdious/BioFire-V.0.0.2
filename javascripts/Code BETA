@@ -3,3 +3,5 @@
 -> Text = "false"
 -> Text = "true"
 -> alert("player") when click on ? = true
+-> (Text); " Demo V.0.1.0 " 
+-> alert("player") when low on health; "(player)" "Your life is getting low!"
