@@ -23,3 +23,4 @@ F to save
 X to revive ally ( Takes 10 secs )
 Secret cheat mode will be hidden in one and all, but 2 rooms of fate, but not rooms with bosses, but mid." = True
 alert;("FirstName") if lose all (Health) " Game Over "
+->Insert; Files "Life V.0.2.png", "Life V.0.2 No.2.png", "Life V.0.2 No.2.png"
