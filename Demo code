@@ -1,5 +1,5 @@
--> alert("player") " you can't do that! "
--> firstName = "Utre"
+-> alert("FirstName") " you can't do that! "
+-> FirstName = "Bellator"
 -> Text = "false"
 -> Text = "true"
 -> alert("player") when click on ? = true
