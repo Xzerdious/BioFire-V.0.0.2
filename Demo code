@@ -7,23 +7,30 @@
 -> alert("player") when low on health; "(player)" "Your life is getting low!"
  (Text); ###  Hi and welcome to BioFire here are the controls
 -> ###Controls; " Up arrow, Interact/Talk. 
-Right and Left keys to move. 
-Down Key to crouch/pick things up.
-Space bar to jump double tap to double jump.
-W key to fly press again to stop flying.
-D key to shoot/punch.
-S key to pull up your inventory
-A key to dodge (The dodge goes by your arrow keys)
-Right mouse to mine/Craft/do things with your inventory
-Left mouse to Place
-Q to use bombs
-E to use special ability
-F to save
-4 to Shield/Block
-X to revive ally ( Takes 10 secs )
-Secret cheat mode will be hidden in one and all, but 2 rooms of fate, but not rooms with bosses, but mid." = True
+###Right and Left keys to move. 
+###Down Key to crouch/pick things up.
+###Space bar to jump double tap to double jump.
+###W key to fly press again to stop flying.
+###D key to shoot/punch.
+###S key to pull up your inventory
+###A key to dodge (The dodge goes by your arrow keys)
+###Right mouse to mine/Craft/do things with your inventory
+###Left mouse to Place
+###Q to use bombs
+###E to use special ability
+###F to save
+###4 to Shield/Block
+###X to revive ally ( Takes 10 secs )
+###Alert; "FirstName"{ when 'Boss' killed "Secret cheat mode will be hidden in one and all, but 2 rooms of fate, but not rooms with bosses, but mid." = True
 alert;("FirstName") if lose all (Health) " Game Over "
 ->Insert; Files "Life V.0.2.png", "Life V.0.2 No.2.png", "Life V.0.2 No.2.png"
 ### Cheat code}
 Color #2a2a2a{
 Alert; ("FirstName") " NO PEAKING!! "
+}
+{
+
+     }
+"BioZerd"
+Alert "FirstName" when "Mitis has been defeated!" "FirstName"} "Good job!"
+Alert "FirstName" when 'defeated' {boss, mid}{ "The first shall be revealed at heart"
