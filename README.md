@@ -1,1 +1,1 @@
-# Sorry, but this project has been cancelled (You can still read the story in one of the files)
+# Sorry, but this project has been put on hold (You can still read the first part of the story in a file)
