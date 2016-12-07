@@ -2,9 +2,9 @@
 -> FirstName = "Bellator"
 -> Text = "false"
 -> Text = "true"
--> alert("player") when click on ? = true
+-> alert("FirstName") when click on ? = true
 -> (Text); " Demo V.1.0 " 
--> alert("player") when low on health; "(player)" "Your life is getting low!"
+-> alert("FirstName") when low on health; ("FirstName") "Your life is getting low!"
  (Text); ###  Hi and welcome to BioFire here are the controls
 -> ###Controls; " Up arrow, Interact/Talk. 
 ###Right and Left keys to move. 
@@ -21,7 +21,7 @@
 ###F to save
 ###4 to Shield/Block
 ###X to revive ally ( Takes 10 secs )
-###Alert; "FirstName"{ when 'Boss' killed "Secret cheat mode will be hidden in one and all, but 2 rooms of fate, but not rooms with bosses, but mid." = True
+###Alert; ("FirstName"){ when 'Boss' killed "Secret cheat mode will be hidden in one and all, but 2 rooms of fate, but not rooms with bosses, but mid." = True
 alert;("FirstName") if lose all (Health) " Game Over "
 ->Insert; Files "Life V.0.2.png", "Life V.0.2 No.2.png", "Life V.0.2 No.2.png"
 ### Cheat code}
@@ -32,5 +32,5 @@ Alert; ("FirstName") " NO PEAKING!! "
 
      }
 "BioZerd"
-Alert "FirstName" when "Mitis has been defeated!" "FirstName"} "Good job!"
-Alert "FirstName" when 'defeated' {boss, mid}{ "The first shall be revealed at heart"
+Alert; ("FirstName") when "Mitis has been defeated!" "FirstName"} "Good job!"
+Alert; ("FirstName") when 'defeated' {boss, mid}{ "The first shall be revealed at heart"
