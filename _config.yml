@@ -1,0 +1,8 @@
+title: The legend of the BioFire: Bellator 's Journey
+description: 201?, I lost the cheat code... maybe its scattered somewhere.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
