@@ -1,0 +1,8 @@
+title: BioFire: The great begging-v.0.0.2
+description: 2017
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
